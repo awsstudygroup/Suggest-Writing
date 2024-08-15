@@ -1,4 +1,4 @@
-## Product Description: AWS GenScribe: Elevate Your Essay Craft
+## AWS GenScribe: Elevate Your Essay Craft
 
 **AWS GenScribe** is an advanced essay crafting tool that leverages the power of Amazon Bedrock and the Anthropic Claude 3 Sonnet model, integrated through LangChain and Streamlit, to provide users with a sophisticated platform for essay writing. This tool is designed to assist users in generating, refining, and enhancing their essays by utilizing state-of-the-art AI models. Whether you are a student, a researcher, or a professional writer, AWS GenScribe offers a seamless and intuitive experience that elevates the quality of your written work.
 
